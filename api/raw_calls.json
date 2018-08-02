@@ -1,0 +1,105 @@
+{
+    "calls": {
+        "AAC": {
+            "initialized": true,
+            "method": "get",
+            "name": "BTC",
+            "publish_as": "data",
+            "rank": 0,
+            "ret_value": "api.1532933503251x696382481318019100.plugin_api.AAC",
+            "types": "{\"plugin_api.AAC\":{\"caption\":\"BTC\",\"fields\":{\"_p_BTC\":{\"ret_value\":\"number\",\"caption\":\"BTC\",\"path\":[\"BTC\"]}}}}",
+            "url": "https://min-api.cryptocompare.com/data/price?fsym=USD&tsyms=BTC"
+        },
+        "AAD": {
+            "initialized": true,
+            "method": "get",
+            "name": "ETH Price",
+            "publish_as": "data",
+            "rank": 1,
+            "ret_value": "api.1532933503251x696382481318019100.plugin_api.AAD",
+            "types": "{\"plugin_api.AAD\":{\"caption\":\"ETH Price\",\"fields\":{\"_p_ETH\":{\"ret_value\":\"number\",\"caption\":\"ETH\",\"path\":[\"ETH\"]}}}}",
+            "url": "https://min-api.cryptocompare.com/data/price?fsym=USD&tsyms=ETH"
+        },
+        "AAE": {
+            "initialized": true,
+            "method": "get",
+            "name": "XRP Price",
+            "publish_as": "data",
+            "rank": 2,
+            "ret_value": "api.1532933503251x696382481318019100.plugin_api.AAE",
+            "types": "{\"plugin_api.AAE\":{\"caption\":\"XRP Price\",\"fields\":{\"_p_XRP\":{\"ret_value\":\"number\",\"caption\":\"XRP\",\"path\":[\"XRP\"]}}}}",
+            "url": "https://min-api.cryptocompare.com/data/price?fsym=USD&tsyms=XRP"
+        },
+        "AAF": {
+            "initialized": true,
+            "method": "get",
+            "name": "LTC Price",
+            "publish_as": "data",
+            "rank": 3,
+            "ret_value": "api.1532933503251x696382481318019100.plugin_api.AAF",
+            "types": "{\"plugin_api.AAF\":{\"caption\":\"LTC Price\",\"fields\":{\"_p_LTC\":{\"ret_value\":\"number\",\"caption\":\"LTC\",\"path\":[\"LTC\"]}}}}",
+            "url": "https://min-api.cryptocompare.com/data/price?fsym=USD&tsyms=LTC"
+        },
+        "AAG": {
+            "initialized": true,
+            "method": "get",
+            "name": "BCH Price",
+            "publish_as": "data",
+            "rank": 4,
+            "ret_value": "api.1532933503251x696382481318019100.plugin_api.AAG",
+            "types": "{\"plugin_api.AAG\":{\"caption\":\"BCH Price\",\"fields\":{\"_p_BCH\":{\"ret_value\":\"number\",\"caption\":\"BCH\",\"path\":[\"BCH\"]}}}}",
+            "url": "https://min-api.cryptocompare.com/data/price?fsym=USD&tsyms=BCH"
+        },
+        "AAH": {
+            "initialized": true,
+            "method": "get",
+            "name": "ADA Price",
+            "publish_as": "data",
+            "rank": 5,
+            "ret_value": "api.1532933503251x696382481318019100.plugin_api.AAH",
+            "types": "{\"plugin_api.AAH\":{\"caption\":\"ADA Price\",\"fields\":{\"_p_ADA\":{\"ret_value\":\"number\",\"caption\":\"ADA\",\"path\":[\"ADA\"]}}}}",
+            "url": "https://min-api.cryptocompare.com/data/price?fsym=USD&tsyms=ADA"
+        },
+        "AAI": {
+            "initialized": true,
+            "method": "get",
+            "name": "XLM Price",
+            "publish_as": "data",
+            "rank": 6,
+            "ret_value": "api.1532933503251x696382481318019100.plugin_api.AAI",
+            "types": "{\"plugin_api.AAI\":{\"caption\":\"XLM Price\",\"fields\":{\"_p_XLM\":{\"ret_value\":\"number\",\"caption\":\"XLM\",\"path\":[\"XLM\"]}}}}",
+            "url": "https://min-api.cryptocompare.com/data/price?fsym=USD&tsyms=XLM"
+        },
+        "AAJ": {
+            "initialized": true,
+            "method": "get",
+            "name": "IOTA Price",
+            "publish_as": "data",
+            "rank": 7,
+            "ret_value": "api.1532933503251x696382481318019100.plugin_api.AAJ",
+            "types": "{\"plugin_api.AAJ\":{\"caption\":\"IOTA Price\",\"fields\":{\"_p_IOTA\":{\"ret_value\":\"number\",\"caption\":\"IOTA\",\"path\":[\"IOTA\"]}}}}",
+            "url": "https://min-api.cryptocompare.com/data/price?fsym=USD&tsyms=IOTA"
+        },
+        "AAK": {
+            "initialized": true,
+            "method": "get",
+            "name": "TRX Price",
+            "publish_as": "data",
+            "rank": 8,
+            "ret_value": "api.1532933503251x696382481318019100.plugin_api.AAK",
+            "types": "{\"plugin_api.AAK\":{\"caption\":\"TRX Price\",\"fields\":{\"_p_TRX\":{\"ret_value\":\"number\",\"caption\":\"TRX\",\"path\":[\"TRX\"]}}}}",
+            "url": "https://min-api.cryptocompare.com/data/price?fsym=USD&tsyms=TRX"
+        },
+        "AAL": {
+            "initialized": true,
+            "method": "get",
+            "name": "EOS Price",
+            "publish_as": "data",
+            "rank": 9,
+            "ret_value": "api.1532933503251x696382481318019100.plugin_api.AAL",
+            "types": "{\"plugin_api.AAL\":{\"caption\":\"EOS Price\",\"fields\":{\"_p_EOS\":{\"ret_value\":\"number\",\"caption\":\"EOS\",\"path\":[\"EOS\"]}}}}",
+            "url": "https://min-api.cryptocompare.com/data/price?fsym=USD&tsyms=EOS"
+        }
+    },
+    "human": "Crypto Compare USD"
+}
